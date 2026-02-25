@@ -262,7 +262,7 @@ export default function NoSmokingPage() {
           <div className="flex justify-center items-center gap-3 mb-2">
             <div className="heartbeat text-4xl">❤️</div>
             <h1 className="text-4xl font-black text-white" style={{ textShadow: "0 0 30px rgba(167,139,250,0.8)" }}>
-              لأجلك يا صديقي
+              لأجلك يا عيسى
             </h1>
             <div className="heartbeat text-4xl" style={{ animationDelay: "0.5s" }}>❤️</div>
           </div>
